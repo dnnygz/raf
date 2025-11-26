@@ -1,0 +1,26 @@
+# ML and AI
+torch
+transformers
+groq
+sentence-transformers
+
+# langchain ecosystem
+langchain
+langchain-community
+langchain-groq
+
+# document processing
+unstructured[all-docs]
+pillow
+lxml
+
+# vector database
+chromadb
+tiktoken
+
+# utilities
+python-dotenv
+numpy
+pandas
+tabulate
+matplotlib
